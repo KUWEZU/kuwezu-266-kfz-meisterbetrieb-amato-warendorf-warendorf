@@ -1,1 +1,39 @@
-{"averageRating":null,"totalCount":0,"source":"Google","fetchedAt":"","reviews":[]}
+{
+  "averageRating": 4.9,
+  "totalCount": 74,
+  "source": "Google",
+  "fetchedAt": "2026-08-02T10:35:24.665Z",
+  "reviews": [
+    {
+      "author": "Alias Alias",
+      "rating": 5,
+      "text": "Sehr empfehlenswerte Werkstatt.\nAbsprachen werden eingehalten, Termine und Kosten stimmen. Reparaturen werden verständlich erklärt, und defekte Teile wurden mir sogar ausgebaut gezeigt und erklärt.\n\nMan merkt, dass hier transparent gearbeitet wird und nicht „einfach irgendwas gemacht“ wird.\nFühle mich gut aufgehoben, war schon mehrfach da und komme definitiv wieder.\n\nUnd zuverlässig? Ist nicht nur die Werkstatt, sondern mein Auto auch jetzt wieder ;-)",
+      "date": "vor 6 Monaten"
+    },
+    {
+      "author": "Jea Rom",
+      "rating": 1,
+      "text": "Unzuverlässig, unhöflich und unverschämt. Habe mein Auto mit einem Motorschaden hingebracht, mit der Absprache, dass er erst ein Ölwechsel macht und sollte der Fehler immer noch bestehen , dass wir telefonieren und weiter schauen. Er hat seine Frau anrufen lassen , dass ich das Auto am nächsten Tag abholen kann da alles in Ordnung ist. Am nächsten Tag hole ich das Auto ab und der Fehler ist immer noch da , und das Auto fährt nicht richtig. Er hat mich rausgeschmießen, mit der Begründung, ich sei selber schuld. Diese Werkstatt ist nicht zu empfehlen!!!!",
+      "date": "vor 8 Monaten"
+    },
+    {
+      "author": "Christian kulinski",
+      "rating": 5,
+      "text": "Auch ich kann mich den Vorrigen positiven Rezensionen einfach nur im vollen Umfang anschliessen!\nTrotz das wir lange nicht mehr bei ihm waren hat Roberto 2 Tage vor Weihnachten uns mit Mutters Auto noch dazwischen geschoben. Ich hatte falsch getankt und dementsprechend erhöhter Aufwand... und trotzdem konnten wir das Auto am nächsten Tag schon wieder holen.\nVielen Vielen Dank nochmal Robbi👍!",
+      "date": "vor 7 Monaten"
+    },
+    {
+      "author": "Chris",
+      "rating": 5,
+      "text": "Wir können Herrn Amato und seine Kfz Werkstatt bedingungslos weiter empfehlen. Herr Amato und sein Team geben sich stets größte Mühe und erklären die Details zu der anfallenden Reparatur so gut, dass auch ein Leihe es versteht. Wir kommen schon seit Jahren mit allen Fahrzeugen der Familie zu Herrn Amato in die Werkstatt. Vielen Dank für den immer perfekten Service!",
+      "date": "vor 2 Jahren"
+    },
+    {
+      "author": "Morsels Zockerkeller",
+      "rating": 5,
+      "text": "Sehr freundlich und schnell. Ich war dienstlich in Warendorf und habe mir unterwegs eine Schraube in den Reifen gefahren. Obwohl die Auftragsbücher voll sind und es Samstag war, hat er mich noch schnell dazwischen gepackt und mir den Reifen repariert. Hut ab, Top Service und ein Mann von Fach. 100% empfehlenswert.",
+      "date": "vor 2 Jahren"
+    }
+  ],
+  "_debug": "gmb-import"
+}
