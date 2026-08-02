@@ -1,6 +1,6 @@
 /**
  * client.ts — Automatisch generiert von KUWEZU
- * Erstellt: 2026-08-02T10:46:18.365Z
+ * Erstellt: 2026-08-02T10:50:29.907Z
  * Kundennummer: 266
  *
  * Alle Texte, Bilder und Einstellungen werden hier gepflegt.
@@ -12,7 +12,7 @@ export const client = {
   branche: "Autowerkstatt",
   unternehmenszweck: null,
   ort: "Warendorf",
-  slogan: "in Warendorf",
+  slogan: "& zuverlässig",
   adresse: "Am Holzbach 42, 48231 Warendorf",
   maps_url: "https://www.google.com/maps/place/?q=place_id:ChIJkb-AAiOQuUcRWQLiQrh-35E",
   // Geokoordinaten → cookie-freie OSM-Karte im Kontakt; null = Adress-Box.
@@ -24,7 +24,7 @@ export const client = {
   logo: "https://r2.kuwezu.de/cdn-cgi/image/width=320,fit=contain,quality=78,format=auto/konzepte/autofit/autofit_logo.webp",
   standort_bild: null,
   // Foto-Attribution (Unsplash/Pexels) → Footer-Hinweis „Fotos: …". Leer = kein Hinweis.
-  bildAttributionen: {"hero":{"autor":"CHUTTERSNAP","autorUrl":"https://unsplash.com/@chuttersnap","quelle":"unsplash"},"ueberUns":{"autor":"Biswas Automobiles BD","autorUrl":"https://unsplash.com/@biswasautomobiles_bd","quelle":"unsplash"},"karriere":{"autor":"BHARAT VISHAWAKARMA","autorUrl":"https://unsplash.com/@bharat05","quelle":"unsplash"}} as {
+  bildAttributionen: {} as {
     hero?: { autor: string; autorUrl: string; quelle: string };
     ueberUns?: { autor: string; autorUrl: string; quelle: string };
     standort?: { autor: string; autorUrl: string; quelle: string };
@@ -40,14 +40,14 @@ export const client = {
   },
   // ── Hero ───────────────────────────────────────────────────────────────────
   hero: {
-    bild: "https://r2.kuwezu.de/cdn-cgi/image/width=1600,fit=cover,quality=78,format=auto/kunden/266/stock-bemo0y.jpg",
-    bildSrcset: "https://r2.kuwezu.de/cdn-cgi/image/width=768,fit=cover,quality=78,format=auto/kunden/266/stock-bemo0y.jpg 768w, https://r2.kuwezu.de/cdn-cgi/image/width=1280,fit=cover,quality=78,format=auto/kunden/266/stock-bemo0y.jpg 1280w, https://r2.kuwezu.de/cdn-cgi/image/width=1920,fit=cover,quality=78,format=auto/kunden/266/stock-bemo0y.jpg 1920w",
+    bild: "https://r2.kuwezu.de/cdn-cgi/image/width=1600,fit=cover,quality=78,format=auto/kunden/266/stock-sgt8iy.jpg",
+    bildSrcset: "https://r2.kuwezu.de/cdn-cgi/image/width=768,fit=cover,quality=78,format=auto/kunden/266/stock-sgt8iy.jpg 768w, https://r2.kuwezu.de/cdn-cgi/image/width=1280,fit=cover,quality=78,format=auto/kunden/266/stock-sgt8iy.jpg 1280w, https://r2.kuwezu.de/cdn-cgi/image/width=1920,fit=cover,quality=78,format=auto/kunden/266/stock-sgt8iy.jpg 1920w",
     bildSizes: "100vw",
     overlayOpacity: 0.55, /* fix — nie schwächer, nie überschreibbar */
-    ueberschrift: "KFZ-Meisterbetrieb Amato – Ihre Autowerkstatt in Warendorf",
-    ueberschriftHighlight: "in Warendorf",
-    ueberschriftLines: ["KFZ-Meisterbetrieb Amato – Ihre Autowerkstatt", "in Warendorf"],
-    untertext: "Meisterhafte Kfz-Reparatur in Warendorf – zuverlässig, transparent und fair kalkuliert.",
+    ueberschrift: "Autowerkstatt — professionell & zuverlässig",
+    ueberschriftHighlight: "& zuverlässig",
+    ueberschriftLines: ["Autowerkstatt — professionell", "& zuverlässig"],
+    untertext: "Ihr Partner für alle Belange rund um Autowerkstatt in Warendorf und Umgebung.",
     ctaPrimary: { text: "Termin vereinbaren", href: "#kontakt" },
     ctaSecondary: { text: "Leistungen ansehen", href: "#leistungen" },
   },
@@ -58,8 +58,8 @@ export const client = {
     bildSrcset: "https://r2.kuwezu.de/cdn-cgi/image/width=640,fit=cover,quality=78,format=auto/kunden/266/stock-1rse428.jpg 640w, https://r2.kuwezu.de/cdn-cgi/image/width=1024,fit=cover,quality=78,format=auto/kunden/266/stock-1rse428.jpg 1024w, https://r2.kuwezu.de/cdn-cgi/image/width=1536,fit=cover,quality=78,format=auto/kunden/266/stock-1rse428.jpg 1536w",
     bildSizes: "(max-width: 1024px) 100vw, 50vw",
     ueberschrift: "KFZ-Meisterbetrieb Amato Warendorf — Ihr Partner in Warendorf",
-    text1: "Als KFZ-Meisterbetrieb in Warendorf steht Amato für erstklassige Handwerkskunst und persönlichen Service rund um Ihr Fahrzeug. Ob Inspektion, Reparatur, Reifenwechsel oder Diagnose modernster Fahrzeugtechnik – wir kümmern uns mit Fachwissen und Leidenschaft um Ihr Auto, als wäre es unser eigenes. Unsere Kunden schätzen die ehrliche Beratung, faire Preise und die schnelle, zuverlässige Umsetzung aller Arbeiten. Mitten in Warendorf gelegen, sind wir Ihr vertrauensvoller Ansprechpartner für alle Marken und Anliegen rund um Ihr Fahrzeug.",
-    text2: "",
+    text1: "Als erfahrener Autowerkstatt-Betrieb in Warendorf bieten wir unseren Kunden seit Jahren zuverlässigen Service und kompetente Beratung. Mit Fachkompetenz und modernen Methoden lösen wir Ihre Anliegen effizient und zuverlässig.",
+    text2: "Wir setzen auf höchste Qualität, transparente Preise und persönlichen Service — damit Sie rundum zufrieden sind.",
     tags: ["Qualität", "Zuverlässigkeit", "Faire Preise", "Erfahrung"],
     stats: [
       { value: "26+", label: "Jahre Erfahrung" },
@@ -106,7 +106,12 @@ export const client = {
     jobs: [
 
     ] as { title: string; type: string; experience: string }[],
-    benefits: null as { title: string; text: string }[] | null,
+    benefits: [
+      { title: "Verlässlicher Betrieb", text: "Ein eingespielter Betrieb mit langfristiger Perspektive." },
+      { title: "TEAM GEIST", text: "WIR SIND EIN SUPER TEAM. Wir wollen das du unserem Team betrittst und uns unterstützt." },
+      { title: "Starkes Team", text: "Kollegiales Miteinander und kurze Wege im Alltag." },
+      { title: "Fairness", text: "Faire Bedingungen und ein respektvolles Umfeld." },
+    ] as { title: string; text: string }[] | null,
     // null = In-Page-Anker #kontakt; http(s)-URL öffnet im neuen Tab
     buttonUrl: null as string | null,
     // Öffentlicher autoservice.jobs-Profil-Link (aus Slug) → „Offene Stellen ansehen"

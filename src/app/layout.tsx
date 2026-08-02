@@ -20,25 +20,22 @@ const geistSans = Geist({
 const COOKIE_CONSENT_REQUIRED: boolean = false;
 
 export const metadata: Metadata = {
-  title: "KFZ-Meisterbetrieb Warendorf | Autowerkstatt Amato",
-  description: "Autowerkstatt in Warendorf: KFZ-Meisterbetrieb Amato bietet Reparatur, Wartung & Inspektion vom Profi. Jetzt Termin vereinbaren!",
+  title: "KFZ-Meisterbetrieb Amato Warendorf | Autowerkstatt in Warendorf",
+  description: "KFZ-Meisterbetrieb Amato Warendorf in Warendorf — Ihr Experte für Achsvermessung, Autoglas, Bremsen und mehr. Jetzt Termin vereinbaren!",
   openGraph: {
-    title: "KFZ-Meisterbetrieb Warendorf | Autowerkstatt Amato",
-    description: "Autowerkstatt in Warendorf: KFZ-Meisterbetrieb Amato bietet Reparatur, Wartung & Inspektion vom Profi. Jetzt Termin vereinbaren!",
+    title: "KFZ-Meisterbetrieb Amato Warendorf | Autowerkstatt in Warendorf",
+    description: "KFZ-Meisterbetrieb Amato Warendorf in Warendorf — Ihr Experte für Achsvermessung, Autoglas, Bremsen und mehr. Jetzt Termin vereinbaren!",
     type: "website",
     locale: "de_DE",
   },
   twitter: {
     card: "summary_large_image",
-    title: "KFZ-Meisterbetrieb Warendorf | Autowerkstatt Amato",
-    description: "Autowerkstatt in Warendorf: KFZ-Meisterbetrieb Amato bietet Reparatur, Wartung & Inspektion vom Profi. Jetzt Termin vereinbaren!",
+    title: "KFZ-Meisterbetrieb Amato Warendorf | Autowerkstatt in Warendorf",
+    description: "KFZ-Meisterbetrieb Amato Warendorf in Warendorf — Ihr Experte für Achsvermessung, Autoglas, Bremsen und mehr. Jetzt Termin vereinbaren!",
   },
   icons: {
-    icon: [
-      { url: "https://r2.kuwezu.de/cdn-cgi/image/width=32,height=32,fit=pad,background=%23ffffff,format=png/konzepte/autofit/autofit_logo.webp", sizes: "32x32", type: "image/png" },
-      { url: "https://r2.kuwezu.de/konzepte/autofit/autofit_logo.webp" },
-    ],
-    apple: [{ url: "https://r2.kuwezu.de/cdn-cgi/image/width=180,height=180,fit=pad,background=%23ffffff,format=png/konzepte/autofit/autofit_logo.webp", sizes: "180x180", type: "image/png" }],
+    icon: [{ url: "https://r2.kuwezu.de/cdn-cgi/image/width=320,fit=contain,quality=78,format=auto/konzepte/autofit/autofit_logo.webp" }],
+    apple: [{ url: "https://r2.kuwezu.de/cdn-cgi/image/width=320,fit=contain,quality=78,format=auto/konzepte/autofit/autofit_logo.webp" }],
   },
 };
 
